@@ -2,8 +2,6 @@
 
 # Habilidades
 
-![Exemplo app front](./front-example.png)
-
 O `CarShop` é uma API contruída com princípios de POO seguindo um CRUD, feita para gerenciar uma concessionária de veículos utilizando o banco de dados MongoDB.
 
 # Habilidades
@@ -39,7 +37,7 @@ Para adicionar uma partida é necessário usuário e senha, portanto a pessoa de
 
 ## Rotas do Backend 
 
-### Endpoint (`/cars`)
+# Endpoint (`/cars`)
 
 # A rota do tipo `POST`
 
@@ -89,7 +87,7 @@ Para adicionar uma partida é necessário usuário e senha, portanto a pessoa de
      }]
  ```
 
-### Endpoint (`/cars/:id`)
+# Endpoint (`/cars/:id`)
 
 # A rota do tipo `GET`
 
@@ -151,7 +149,7 @@ Para adicionar uma partida é necessário usuário e senha, portanto a pessoa de
  - Sua API deve responder com status http `204` sem body;
 
 
-### Endpoint (`/motorcycles`)
+# Endpoint (`/motorcycles`)
 
 # A rota do tipo `POST`
 
@@ -205,7 +203,7 @@ Para adicionar uma partida é necessário usuário e senha, portanto a pessoa de
      }]
  ```
 
-### Endpoint (`/motocycle/:id`)
+# Endpoint (`/motocycle/:id`)
 
 # A rota do tipo `GET`
 
